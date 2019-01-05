@@ -1,7 +1,7 @@
 SCAPIC FRONEND REACT ASSIGNMENT
 
   ( NOTE :
-     Actually This project to be a 3D models. But I'm unable to do 3D features. But I was tried 'aframe', 'react-vr' and three.js with react.
+     Actually This project to be a 3D models. But I was tried 'aframe', 'react-vr' and three.js with react.
      What are the issues, I was faced?
        - I'm not able to load .obj file .mtl file using s3 bucket and also local files (.obj and .mtl).
        -I can able to create square, circle and etc. But I'm not able to loop.)
